@@ -1,0 +1,1 @@
+Truth table builder for given simple logical expression
