@@ -14,4 +14,4 @@ and operation signs:
 ')'
 ```
 
-The programs part supports variable names x, y, z, w, but it is easily extendable to support any number of variable names. 
+The program part supports variable names x, y, z, w, but it is easily extendable to support any number of variable names. 
