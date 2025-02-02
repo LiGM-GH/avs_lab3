@@ -1,6 +1,6 @@
 # Truth table builder for given simple logical expression. 
 
-# Support for variable names
+## Support for variable names
 The parser part supports all single-char alphabetical variable names:
 ```
 'a'..='z'
